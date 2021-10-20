@@ -1,5 +1,6 @@
-package leetcode;
+package leetcode.array;
 
+//duyet mang
 public class _1295_FindNumbers {
     public static int findNumbers(int[] nums) {
         int count = 0;
